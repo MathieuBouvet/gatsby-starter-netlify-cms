@@ -9,4 +9,8 @@ tags:
   - test
   - samurai
 ---
+```
 Well ok
+```
+
+![samurai](/img/thumb-1920-439003.jpg)
